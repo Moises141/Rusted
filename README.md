@@ -1,1 +1,1 @@
-Still in developments. This is my first time useing slint for gui.
+Still in development. This is my first time useing slint for gui.
